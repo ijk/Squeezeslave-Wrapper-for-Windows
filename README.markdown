@@ -7,6 +7,7 @@ A simple python wrapper for squeezeslave.exe.
 Either squeezeslave.exe needs to be in your path, or you need to put the location of squeezeslave.exe in the script.
 
 Requirements:
+
 * Python
 * pywin32
 * netbios (python module)
